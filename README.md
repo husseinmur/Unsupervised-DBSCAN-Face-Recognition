@@ -5,7 +5,7 @@ classifier is able to classify faces regardless of face angle,
 facial expressions, facial wears (sunglasses, facemasks,
 etc..), and different levels of makeup. Moreover, it builds a
 labeled dataset that can be used to train other supervised
-learning classifiers
+learning classifiers.
 ## Results
 ### Multiple faces in one image
 ![Multiple faces in one image](results/1.png)
