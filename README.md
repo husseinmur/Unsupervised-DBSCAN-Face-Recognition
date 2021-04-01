@@ -1,4 +1,4 @@
-# Unsupervised Face Recognition using a Video clip
+# Unsupervised DBSCAN Face Recognition
 In this paper, I am proposing a faces classifier that takes videoclips as input and applies unsupervised learning to cluster the extracted faces from that video. These clusters
 will be used to classify unknown images effectively. This
 classifier is able to classify faces regardless of face angle,
